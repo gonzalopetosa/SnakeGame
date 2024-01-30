@@ -29,3 +29,9 @@ El clásico juego de Snake implementado en Java. Controla la serpiente para que 
    ``
    git clone https://github.com/tu_usuario/snake-game.git
    ``
+
+![image](https://github.com/gonzalopetosa/SnakeGame/assets/102489353/b8fd01cd-52b6-4054-842c-b13ca2434dc4)
+
+![image](https://github.com/gonzalopetosa/SnakeGame/assets/102489353/6290c760-7eba-4a98-8ab4-0d85f3b86004)
+
+
